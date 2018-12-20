@@ -21,6 +21,12 @@ p {
     color: white;
 }
 
+.korean {
+    font-family: 'Noto Sans KR';
+    color:white;
+    font-weight: 300;
+}
+
 .center {
     text-align: center;
     align-content: center;
